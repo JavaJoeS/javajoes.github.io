@@ -1,3 +1,4 @@
 layout: page
 title: "Eclipse PKI Site"
-permalink: /p2site/
+baseurl: /p2site
+
