@@ -1,5 +1,4 @@
 layout: page
 title: "Eclipse PKI Site"
-baseurl: /p2site
 theme: jekyll-theme-cayman
-
+permalink: /about/p2site/
