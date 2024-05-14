@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipse.core.pki.feature_1.0.0.202403260943.jar" id="org.eclipse.core.pki.feature" version="1.0.0.202403260943"/>
+   <feature url="features/org.eclipse.core.pki.feature_1.0.0.202405140829.jar" id="org.eclipse.core.pki.feature" version="1.0.0.202405140829"/>
 </site>
