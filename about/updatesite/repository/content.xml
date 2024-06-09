@@ -6,8 +6,8 @@
     <property name='p2.compressed' value='false'/>
   </properties>
   <references size='2'>
-    <repository uri='https://javajoes.github.io/about/p2site' url='https://javajoes.github.io/about/p2site' type='0' options='0'/>
-    <repository uri='https://javajoes.github.io/about/p2site' url='https://javajoes.github.io/about/p2site' type='1' options='0'/>
+    <repository uri='https://javajoes.github.io/about/updatesite' url='https://javajoes.github.io/about/updatesite' type='0' options='0'/>
+    <repository uri='https://javajoes.github.io/about/updatesite' url='https://javajoes.github.io/about/updatesite' type='1' options='0'/>
   </references>
   <units size='3'>
     <unit id='org.eclipse.core.pki.feature.feature.jar' version='1.0.2.202406081054'>
